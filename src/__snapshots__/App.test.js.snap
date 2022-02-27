@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "backgroundColor": "teal",
+        "height": "25rem",
+        "margin": "15rem auto",
+        "paddingTop": "2rem",
+        "width": "20rem",
+      }
+    }
+    variant="info"
+  >
+    <img
+      className="card-img-top"
+      src="/VinhCV.jpg"
+      style={
+        Object {
+          "borderRadius": "25%",
+          "width": "8rem",
+        }
+      }
+    />
+    <div
+      className="card-body"
+      color="white"
+    >
+      <div
+        className="card-title h5"
+        style={
+          Object {
+            "color": "white",
+            "fontWeight": "700",
+            "marginTop": "2rem",
+          }
+        }
+      >
+        Vinh Pham
+      </div>
+      <p
+        className="card-text"
+        style={
+          Object {
+            "color": "white",
+            "paddingLeft": "5px",
+          }
+        }
+      >
+        I'm a software engineer and love to develope new web application.
+      </p>
+    </div>
+  </div>
+</div>
+`;
